@@ -1,19 +1,14 @@
-def add(num1,num2):
-    float_num1 = float(num1)
-    float_num2 = float(num2)
-    return float_num1 + float_num2
-
+def add(num1, num2):
+    return 10
 
 def subtract(num1, num2):
-    return num1 - num2 
+    pass
 
 def multiply(num1, num2):
-    return num1 * num2
+    pass
 
 def divide(num1, num2):
-    float_num1 = float(num1)
-    float_num2 = float(num2)
-    return float_num1 / float_num2
+    pass
 
 def square(num1):
     pass
